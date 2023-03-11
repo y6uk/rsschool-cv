@@ -20,4 +20,14 @@ function squareDigits(num){
   return +num.toString().split('').map(el => el * el).join('')
   }
 ```
+**Experience:** 
+my study projects
+[https://github.com/y6uk/react2]()
+
+**Education**
+* university 2 years
+* course: it-kamasutra
+* course: archakov-blog
+
+**English:** A1-A2
   

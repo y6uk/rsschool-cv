@@ -1,3 +1,1 @@
-# rsschool-cv
-
-heeello
+https://y6uk.github.io/rsschool-cv/cv

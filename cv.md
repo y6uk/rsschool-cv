@@ -24,7 +24,7 @@ function squareDigits(num){
 my study projects
 [https://github.com/y6uk/react2]()
 
-**Education**
+**Education:**
 * university 2 years
 * course: it-kamasutra
 * course: archakov-blog
